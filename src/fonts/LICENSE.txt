@@ -1,0 +1,8 @@
+Fonts in this directory are licensed under the SIL Open Font License 1.1:
+- Playfair Display (Claus Eggers Sørensen)
+- EB Garamond (Georg Duffner / Octavio Pardo)
+- Pinyon Script (Nadine Chahine)
+- Cormorant SC (Christian Thalmann)
+
+Full license text: https://openfontlicense.org
+Distributed via Fontsource (https://fontsource.org), subset to Latin glyphs only.
